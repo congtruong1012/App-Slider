@@ -1,0 +1,10 @@
+D:\AppG4-master\SliderImage\SliderImage\bin\Debug\SliderImage.exe.config
+D:\AppG4-master\SliderImage\SliderImage\bin\Debug\SliderImage.exe
+D:\AppG4-master\SliderImage\SliderImage\bin\Debug\SliderImage.pdb
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.csprojAssemblyReference.cache
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.Form1.resources
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.Properties.Resources.resources
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.csproj.GenerateResource.cache
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.csproj.CoreCompileInputs.cache
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.exe
+D:\AppG4-master\SliderImage\SliderImage\obj\Debug\SliderImage.pdb
